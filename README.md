@@ -69,6 +69,3 @@ The analysis focuses on answering key business questions:
 - *Does bulk purchasing lower costs?*
 - *Which items have the highest inventory turnover?*
 
-## License
-
-[License Information]
